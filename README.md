@@ -1,4 +1,4 @@
-# Multilingual-Wug-s-test-on-LLMs
+# Multilingual-Wug-test-on-LLMs
 
 This repository consists of the code and data from the paper Morphology Matters: **Probing the Cross-linguistic Morphological Generalization Abilities of Large Language Models through a Wug Test** presented at the *Cognitive Modeling and Computational Linguistics Workshop (CMCL)* at ACL 2024
 
