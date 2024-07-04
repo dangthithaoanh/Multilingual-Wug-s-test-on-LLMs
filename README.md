@@ -6,4 +6,4 @@ The `translations` folder contains the translation of the Wug test (Berko, 1958)
 
 The `statistical analysis` folder consists of the data and R script for the statistical analysis.
 
-At the home directory is the Python script used for translating the Wug test using GPT-4 and for running the experiment. 
+The `plonllms.py` at the home directory is the Python script used for translating the Wug test using GPT-4 and for running the experiment. 
